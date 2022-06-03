@@ -3,8 +3,8 @@ Este es un proyecto del módulo de Introducción al Desarrollo web, se hizo un c
 
 ## Autor 📝
 **Isaí Dzul Puga
-* [LinkedIn](www.linkedin.com/in/isaídp)
 * [Portafolio Web](https://isaidzp.github.io/Isaidzul.github.io/)📁💻
+* [LinkedIn](www.linkedin.com/in/isaídp)
 <!-- # Ver ejemplo en vivo -->
 <!-- # Instalación -->
 # Contacto 📱
